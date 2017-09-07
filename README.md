@@ -1,2 +1,3 @@
-# 2017-09-06_bioinformtics_psm_exercise
+# 06Sep2017 Demo Repository for USFCA PSM Bioinformatics Class
+Alfredo H. Locht ahlocht@dons.usfca.edu
 Demo repository for USF Bioinformatics class
